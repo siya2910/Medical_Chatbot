@@ -114,7 +114,6 @@
             & input {
                 padding: 10px;
                 border: none;
-                -webkit-appearance: none;
                 border-radius: 50px;
                 background: whitesmoke;
                 margin: 10px;
